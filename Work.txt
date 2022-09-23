@@ -1,1 +1,5 @@
 my first work in git.
+
+second new line.
+
+third line.
